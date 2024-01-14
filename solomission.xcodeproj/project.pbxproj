@@ -1,0 +1,689 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		84AB90922B53F1EB00E27975 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB90912B53F1EB00E27975 /* AppDelegate.swift */; };
+		84AB90942B53F1EB00E27975 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB90932B53F1EB00E27975 /* GameViewController.swift */; };
+		84AB90972B53F1EB00E27975 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90952B53F1EB00E27975 /* Main.storyboard */; };
+		84AB909A2B53F1EB00E27975 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90982B53F1EB00E27975 /* LaunchScreen.storyboard */; };
+		84AB90A22B53F1EB00E27975 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB90A12B53F1EB00E27975 /* AppDelegate.swift */; };
+		84AB90A42B53F1EB00E27975 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB90A32B53F1EB00E27975 /* GameViewController.swift */; };
+		84AB90A72B53F1EB00E27975 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90A52B53F1EB00E27975 /* Main.storyboard */; };
+		84AB90AA2B53F1EB00E27975 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90A82B53F1EB00E27975 /* LaunchScreen.storyboard */; };
+		84AB90B22B53F1EB00E27975 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB90B12B53F1EB00E27975 /* AppDelegate.swift */; };
+		84AB90B42B53F1EB00E27975 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB90B32B53F1EB00E27975 /* GameViewController.swift */; };
+		84AB90B72B53F1EB00E27975 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90B52B53F1EB00E27975 /* Main.storyboard */; };
+		84AB90B92B53F1EB00E27975 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90862B53F1E800E27975 /* Actions.sks */; };
+		84AB90BA2B53F1EB00E27975 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90862B53F1E800E27975 /* Actions.sks */; };
+		84AB90BB2B53F1EB00E27975 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90862B53F1E800E27975 /* Actions.sks */; };
+		84AB90BC2B53F1EB00E27975 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90872B53F1E800E27975 /* GameScene.sks */; };
+		84AB90BD2B53F1EB00E27975 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90872B53F1E800E27975 /* GameScene.sks */; };
+		84AB90BE2B53F1EB00E27975 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90872B53F1E800E27975 /* GameScene.sks */; };
+		84AB90BF2B53F1EB00E27975 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB90882B53F1E800E27975 /* GameScene.swift */; };
+		84AB90C02B53F1EB00E27975 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB90882B53F1E800E27975 /* GameScene.swift */; };
+		84AB90C12B53F1EB00E27975 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AB90882B53F1E800E27975 /* GameScene.swift */; };
+		84AB90C22B53F1EB00E27975 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90892B53F1EB00E27975 /* Assets.xcassets */; };
+		84AB90C32B53F1EB00E27975 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90892B53F1EB00E27975 /* Assets.xcassets */; };
+		84AB90C42B53F1EB00E27975 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84AB90892B53F1EB00E27975 /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		84AB90862B53F1E800E27975 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
+		84AB90872B53F1E800E27975 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		84AB90882B53F1E800E27975 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		84AB90892B53F1EB00E27975 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		84AB908E2B53F1EB00E27975 /* solomission.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = solomission.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84AB90912B53F1EB00E27975 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		84AB90932B53F1EB00E27975 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		84AB90962B53F1EB00E27975 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		84AB90992B53F1EB00E27975 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		84AB909F2B53F1EB00E27975 /* solomission.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = solomission.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84AB90A12B53F1EB00E27975 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		84AB90A32B53F1EB00E27975 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		84AB90A62B53F1EB00E27975 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		84AB90A92B53F1EB00E27975 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		84AB90AF2B53F1EB00E27975 /* solomission.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = solomission.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84AB90B12B53F1EB00E27975 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		84AB90B32B53F1EB00E27975 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		84AB90B62B53F1EB00E27975 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		84AB90B82B53F1EB00E27975 /* solomission_macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = solomission_macOS.entitlements; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		84AB908B2B53F1EB00E27975 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84AB909C2B53F1EB00E27975 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84AB90AC2B53F1EB00E27975 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		84AB90802B53F1E700E27975 = {
+			isa = PBXGroup;
+			children = (
+				84AB90852B53F1E800E27975 /* solomission Shared */,
+				84AB90902B53F1EB00E27975 /* solomission iOS */,
+				84AB90A02B53F1EB00E27975 /* solomission tvOS */,
+				84AB90B02B53F1EB00E27975 /* solomission macOS */,
+				84AB908F2B53F1EB00E27975 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		84AB90852B53F1E800E27975 /* solomission Shared */ = {
+			isa = PBXGroup;
+			children = (
+				84AB90862B53F1E800E27975 /* Actions.sks */,
+				84AB90872B53F1E800E27975 /* GameScene.sks */,
+				84AB90882B53F1E800E27975 /* GameScene.swift */,
+				84AB90892B53F1EB00E27975 /* Assets.xcassets */,
+			);
+			path = "solomission Shared";
+			sourceTree = "<group>";
+		};
+		84AB908F2B53F1EB00E27975 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				84AB908E2B53F1EB00E27975 /* solomission.app */,
+				84AB909F2B53F1EB00E27975 /* solomission.app */,
+				84AB90AF2B53F1EB00E27975 /* solomission.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		84AB90902B53F1EB00E27975 /* solomission iOS */ = {
+			isa = PBXGroup;
+			children = (
+				84AB90912B53F1EB00E27975 /* AppDelegate.swift */,
+				84AB90932B53F1EB00E27975 /* GameViewController.swift */,
+				84AB90952B53F1EB00E27975 /* Main.storyboard */,
+				84AB90982B53F1EB00E27975 /* LaunchScreen.storyboard */,
+			);
+			path = "solomission iOS";
+			sourceTree = "<group>";
+		};
+		84AB90A02B53F1EB00E27975 /* solomission tvOS */ = {
+			isa = PBXGroup;
+			children = (
+				84AB90A12B53F1EB00E27975 /* AppDelegate.swift */,
+				84AB90A32B53F1EB00E27975 /* GameViewController.swift */,
+				84AB90A52B53F1EB00E27975 /* Main.storyboard */,
+				84AB90A82B53F1EB00E27975 /* LaunchScreen.storyboard */,
+			);
+			path = "solomission tvOS";
+			sourceTree = "<group>";
+		};
+		84AB90B02B53F1EB00E27975 /* solomission macOS */ = {
+			isa = PBXGroup;
+			children = (
+				84AB90B12B53F1EB00E27975 /* AppDelegate.swift */,
+				84AB90B32B53F1EB00E27975 /* GameViewController.swift */,
+				84AB90B52B53F1EB00E27975 /* Main.storyboard */,
+				84AB90B82B53F1EB00E27975 /* solomission_macOS.entitlements */,
+			);
+			path = "solomission macOS";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		84AB908D2B53F1EB00E27975 /* solomission iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84AB90C72B53F1EB00E27975 /* Build configuration list for PBXNativeTarget "solomission iOS" */;
+			buildPhases = (
+				84AB908A2B53F1EB00E27975 /* Sources */,
+				84AB908B2B53F1EB00E27975 /* Frameworks */,
+				84AB908C2B53F1EB00E27975 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "solomission iOS";
+			productName = "solomission iOS";
+			productReference = 84AB908E2B53F1EB00E27975 /* solomission.app */;
+			productType = "com.apple.product-type.application";
+		};
+		84AB909E2B53F1EB00E27975 /* solomission tvOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84AB90CA2B53F1EB00E27975 /* Build configuration list for PBXNativeTarget "solomission tvOS" */;
+			buildPhases = (
+				84AB909B2B53F1EB00E27975 /* Sources */,
+				84AB909C2B53F1EB00E27975 /* Frameworks */,
+				84AB909D2B53F1EB00E27975 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "solomission tvOS";
+			productName = "solomission tvOS";
+			productReference = 84AB909F2B53F1EB00E27975 /* solomission.app */;
+			productType = "com.apple.product-type.application";
+		};
+		84AB90AE2B53F1EB00E27975 /* solomission macOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84AB90CD2B53F1EB00E27975 /* Build configuration list for PBXNativeTarget "solomission macOS" */;
+			buildPhases = (
+				84AB90AB2B53F1EB00E27975 /* Sources */,
+				84AB90AC2B53F1EB00E27975 /* Frameworks */,
+				84AB90AD2B53F1EB00E27975 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "solomission macOS";
+			productName = "solomission macOS";
+			productReference = 84AB90AF2B53F1EB00E27975 /* solomission.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		84AB90812B53F1E700E27975 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					84AB908D2B53F1EB00E27975 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					84AB909E2B53F1EB00E27975 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					84AB90AE2B53F1EB00E27975 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = 84AB90842B53F1E700E27975 /* Build configuration list for PBXProject "solomission" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 84AB90802B53F1E700E27975;
+			productRefGroup = 84AB908F2B53F1EB00E27975 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				84AB908D2B53F1EB00E27975 /* solomission iOS */,
+				84AB909E2B53F1EB00E27975 /* solomission tvOS */,
+				84AB90AE2B53F1EB00E27975 /* solomission macOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		84AB908C2B53F1EB00E27975 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84AB90BC2B53F1EB00E27975 /* GameScene.sks in Resources */,
+				84AB90972B53F1EB00E27975 /* Main.storyboard in Resources */,
+				84AB90B92B53F1EB00E27975 /* Actions.sks in Resources */,
+				84AB909A2B53F1EB00E27975 /* LaunchScreen.storyboard in Resources */,
+				84AB90C22B53F1EB00E27975 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84AB909D2B53F1EB00E27975 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84AB90BD2B53F1EB00E27975 /* GameScene.sks in Resources */,
+				84AB90A72B53F1EB00E27975 /* Main.storyboard in Resources */,
+				84AB90BA2B53F1EB00E27975 /* Actions.sks in Resources */,
+				84AB90AA2B53F1EB00E27975 /* LaunchScreen.storyboard in Resources */,
+				84AB90C32B53F1EB00E27975 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84AB90AD2B53F1EB00E27975 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84AB90B72B53F1EB00E27975 /* Main.storyboard in Resources */,
+				84AB90BE2B53F1EB00E27975 /* GameScene.sks in Resources */,
+				84AB90C42B53F1EB00E27975 /* Assets.xcassets in Resources */,
+				84AB90BB2B53F1EB00E27975 /* Actions.sks in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		84AB908A2B53F1EB00E27975 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84AB90BF2B53F1EB00E27975 /* GameScene.swift in Sources */,
+				84AB90942B53F1EB00E27975 /* GameViewController.swift in Sources */,
+				84AB90922B53F1EB00E27975 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84AB909B2B53F1EB00E27975 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84AB90C02B53F1EB00E27975 /* GameScene.swift in Sources */,
+				84AB90A42B53F1EB00E27975 /* GameViewController.swift in Sources */,
+				84AB90A22B53F1EB00E27975 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84AB90AB2B53F1EB00E27975 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84AB90C12B53F1EB00E27975 /* GameScene.swift in Sources */,
+				84AB90B42B53F1EB00E27975 /* GameViewController.swift in Sources */,
+				84AB90B22B53F1EB00E27975 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		84AB90952B53F1EB00E27975 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84AB90962B53F1EB00E27975 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		84AB90982B53F1EB00E27975 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84AB90992B53F1EB00E27975 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		84AB90A52B53F1EB00E27975 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84AB90A62B53F1EB00E27975 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		84AB90A82B53F1EB00E27975 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84AB90A92B53F1EB00E27975 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		84AB90B52B53F1EB00E27975 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84AB90B62B53F1EB00E27975 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		84AB90C52B53F1EB00E27975 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		84AB90C62B53F1EB00E27975 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		84AB90C82B53F1EB00E27975 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3L78Q525LQ;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UIStatusBarHidden = NO;
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleDarkContent;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = myfun.solomission;
+				PRODUCT_NAME = solomission;
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		84AB90C92B53F1EB00E27975 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3L78Q525LQ;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UIStatusBarHidden = NO;
+				INFOPLIST_KEY_UIStatusBarStyle = UIStatusBarStyleDarkContent;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = myfun.solomission;
+				PRODUCT_NAME = solomission;
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		84AB90CB2B53F1EB00E27975 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "tvOS App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3L78Q525LQ;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = myfun.solomission;
+				PRODUCT_NAME = solomission;
+				SDKROOT = appletvos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 17.2;
+			};
+			name = Debug;
+		};
+		84AB90CC2B53F1EB00E27975 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "tvOS App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3L78Q525LQ;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = myfun.solomission;
+				PRODUCT_NAME = solomission;
+				SDKROOT = appletvos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 17.2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		84AB90CE2B53F1EB00E27975 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "solomission macOS/solomission_macOS.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3L78Q525LQ;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = myfun.solomission;
+				PRODUCT_NAME = solomission;
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		84AB90CF2B53F1EB00E27975 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "solomission macOS/solomission_macOS.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3L78Q525LQ;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = myfun.solomission;
+				PRODUCT_NAME = solomission;
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		84AB90842B53F1E700E27975 /* Build configuration list for PBXProject "solomission" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84AB90C52B53F1EB00E27975 /* Debug */,
+				84AB90C62B53F1EB00E27975 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84AB90C72B53F1EB00E27975 /* Build configuration list for PBXNativeTarget "solomission iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84AB90C82B53F1EB00E27975 /* Debug */,
+				84AB90C92B53F1EB00E27975 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84AB90CA2B53F1EB00E27975 /* Build configuration list for PBXNativeTarget "solomission tvOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84AB90CB2B53F1EB00E27975 /* Debug */,
+				84AB90CC2B53F1EB00E27975 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84AB90CD2B53F1EB00E27975 /* Build configuration list for PBXNativeTarget "solomission macOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84AB90CE2B53F1EB00E27975 /* Debug */,
+				84AB90CF2B53F1EB00E27975 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 84AB90812B53F1E700E27975 /* Project object */;
+}
